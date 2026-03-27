@@ -13,7 +13,7 @@ This page showcases a clean, modern design with an illustration, call-to-action 
 
 ## 📸 Preview
 
-[Landing Page Screenshot](images/Screenshot/huddlelandingpage.png)
+(images/Screenshot/huddlelandingpage.png)
 
 ## 🔗 Live Demo
 
