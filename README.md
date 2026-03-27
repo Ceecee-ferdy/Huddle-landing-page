@@ -13,7 +13,8 @@ This page showcases a clean, modern design with an illustration, call-to-action 
 
 ## Live Demo
 
-![Landing Page Screenshot](Images/Screenshot/huddlelandingpage.png)  
+![Landing Page Screenshot](images/Screenshot/huddlelandingpage.png)
+  
 
 
 ---
