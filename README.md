@@ -11,11 +11,13 @@ This page showcases a clean, modern design with an illustration, call-to-action 
 - Hover effects on buttons and icons for interactivity  
 - Background images adapt for mobile, tablet, and desktop  
 
-## Live Demo
+## 📸 Preview
 
-![Landing Page Screenshot](images/Screenshot/huddlelandingpage.png)
-  
+[Landing Page Screenshot](images/Screenshot/huddlelandingpage.png)
 
+## 🔗 Live Demo
+
+ [Click here to view the app]()
 
 ---
 
