@@ -11,13 +11,26 @@ This page showcases a clean, modern design with an illustration, call-to-action 
 - Hover effects on buttons and icons for interactivity  
 - Background images adapt for mobile, tablet, and desktop  
 
+---
+
 ## 📸 Preview
 
-[Landing Page Screenshot](images/huddle-landing-page-screenshot.png)
+![Landing Page Screenshot](images/huddle-landing-page-screenshot.png)
+
+---
+
+## 💡 What I Learned
+
+* Structuring responsive layouts
+* Working with background images and positioning
+* Improving UI consistency and spacing
+* Writing cleaner and more readable CSS
+
+---
 
 ## 🔗 Live Demo
 
- [Click here to view the app]( https://ceecee-ferdy.github.io/Huddle-landing-page/)
+ ![Click here to view the app]( https://ceecee-ferdy.github.io/Huddle-landing-page/)
 
 ---
 
