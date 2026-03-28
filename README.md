@@ -30,7 +30,7 @@ This page showcases a clean, modern design with an illustration, call-to-action 
 
 ## 🔗 Live Demo
 
- ![Click here to view the app]( https://ceecee-ferdy.github.io/Huddle-landing-page/)
+ [Click here to view the app]( https://ceecee-ferdy.github.io/Huddle-landing-page/)
 
 ---
 
